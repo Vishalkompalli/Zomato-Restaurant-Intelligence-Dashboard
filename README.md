@@ -36,11 +36,22 @@ This dashboard aligns with analytics practices seen in similar interactive dashb
 
 ## Repository Structure
 Zomato-Restaurant-Intelligence-Dashboard/
-├─ Report_Zomato.pbix # Power BI dashboard file
-├─ Zomato Restaurant Intelligence Dashboard.pdf # PDF version of the report
-├─ Zomato Bangalore Restarunts Data/ # Source dataset folder
-├─ .gitattributes # Git attributes
-└─ README.md # This documentation
+│
+├── Report_Zomato.pbix
+│   Power BI dashboard containing data model, DAX measures, and visuals
+│
+├── Zomato Restaurant Intelligence Dashboard.pdf
+│   Static PDF export of the dashboard
+│
+├── Zomato Bangalore Restaurants Data/
+│   Raw dataset(s) used for analysis
+│
+├── .gitattributes
+│   Git configuration file
+│
+└── README.md
+│   Project documentation
+
 
 
 ## Getting Started
